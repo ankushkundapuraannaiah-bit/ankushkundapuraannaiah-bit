@@ -1,4 +1,41 @@
-# 👋 Hi, I'm Ankush Kundapura Annaiah
+<div align="center">
+
+<!-- Animated AI Character -->
+<img 
+  src="https://media.giphy.com/media/L1R1TV3cXR2K7g6K4M/giphy.gif"
+  width="180"
+  alt="AI Robot Animation"
+/>
+
+# 👋 Hey! I'm Ankush
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Generative+AI+Enthusiast+%F0%9F%A7%A0;Building+the+Future+One+Project+at+a+Time+%F0%9F%9A%80"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧑‍💻 My AI Assistant
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/demo.gif" width="500">
+
+```text
+┌───────────────────────────────────────────┐
+│                                           │
+│       🤖 ANKUSH-AI ONLINE                 │
+│                                           │
+│       > Initializing AI systems...        │
+│       > Loading Python modules...         │
+│       > Training neural networks...       │
+│       > Building awesome projects...      │
+│                                           │
+│       STATUS: READY 🚀                    │
+│                                           │
+└───────────────────────────────────────────┘
 
 ### 🚀 B.Tech CSE (AI & ML) Student | AI/ML Enthusiast | Software Developer | Builder
 
